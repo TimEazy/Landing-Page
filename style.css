@@ -1,0 +1,20 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.header {
+    background-color: rgb(74, 101, 95);
+}
+
+.hero {
+    background-color: rgb(74, 101, 95);
+}
+
+.quote {
+    background-color: rgb(183, 192, 199);
+}
+
+.footer {
+    background-color: rgb(74, 101, 95);
+}
