@@ -5,6 +5,8 @@
 }
 .header {
     background-color: rgb(74, 101, 95);
+    display: flex;
+    margin-left: 0;
 }
 
 .hero {
@@ -17,4 +19,8 @@
 
 .footer {
     background-color: rgb(74, 101, 95);
+}
+
+h1 {
+    font: 48px bold white;
 }
