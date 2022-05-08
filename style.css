@@ -25,7 +25,13 @@ body {
     padding: 10px 200px;
    }
 
+#textlogo {
+    font-family: 'Brush Script MT';
+    color: #9ea4b2;
+    font-size: 30px;
+    margin: 0;
 
+}
 
 .herolarge {
     background-color: rgb(74, 101, 95);
