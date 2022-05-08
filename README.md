@@ -14,3 +14,4 @@ The purpose of this project is to both test and expand my knowledge of HTML and 
              - Got Hero text closer to complete
              - Changed footer text size
              - Rounded corners on C2A and small images
+             - Styled buttons
