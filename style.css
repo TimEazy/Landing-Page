@@ -22,7 +22,11 @@ body {
     background-color: rgb(74, 101, 95);
     display: flex;
     justify-content: space-between;
-    padding: 10px 200px;
+    padding: 3px 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
    }
 
 #textlogo {
@@ -31,6 +35,13 @@ body {
     font-size: 30px;
     margin: 0;
 
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
 }
 
 .herolarge {
@@ -46,6 +57,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+
 
 .imagecards {
     padding: 50px 200px;
