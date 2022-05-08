@@ -7,3 +7,10 @@ The purpose of this project is to both test and expand my knowledge of HTML and 
              - Basic CSS added - Background colours chosen
              - Photos of Dave added
              - Footer complete
+
+7th May 2022 - Change logo to a text logo
+             - Header complete
+             - Changed text colour of Hero text
+             - Got Hero text closer to complete
+             - Changed footer text size
+             - Rounded corners on C2A and small images

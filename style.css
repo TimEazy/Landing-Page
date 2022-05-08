@@ -31,7 +31,7 @@ body {
 
 #textlogo {
     font-family: 'Brush Script MT';
-    color: #9ea4b2;
+    color: white;
     font-size: 30px;
     margin: 0;
 
@@ -41,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 15px;
+    gap: 30px;
 }
 
 .herolarge {
@@ -56,20 +56,27 @@ body {
 .hero {
     display: flex;
     flex-direction: column;
+    padding: 20px;
+
 }
 
+.mainimage {
+    display: flex;
+    max-height: 400px;
+    max-width: 800px;
+
+}
 
 .imagecards {
     padding: 50px 200px;
     display: flex;
     flex: 1;
-    width: 400px;
     justify-content: center;
     align-items: center;
 }
 
 .quote {
-    padding: 50px 200px;
+    padding: 50px 380px;
     background-color: rgb(183, 192, 199);
     display: flex;
     flex-direction: column;
@@ -86,6 +93,7 @@ h1 {
 .smallphoto {
     max-width: 100px;
     max-height: 100px;
+    border-radius: 10px;
 
 }
 
@@ -97,9 +105,13 @@ h1 {
 }
 .c2acard {
     background-color: rgb(74, 101, 95);
-    display: flex; 
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+
 }
 .footer {
     background-color: rgb(74, 101, 95);
@@ -111,7 +123,7 @@ h1 {
 }
 .footer
 p {
-    font-size: 18px;
+    font-size: 12px;
     color: #9ea4b2;
 
 }
