@@ -79,13 +79,16 @@ body {
 
 .smallphotos {
     display: flex;
-    justify-content: center;
+    justify-content:stretch;
     align-items: center;
     flex-direction: column;
     text-align: center;
     max-width: 200px;
-    gap: 50px;
 
+}
+.smallphotos
+p {
+    color: #9ea4b2;
 }
 
 .allcards {
@@ -136,6 +139,8 @@ h1 {
     align-items: center;
 
 }
+
+
 .footer {
     background-color: rgb(74, 101, 95);
     margin-top: auto;
